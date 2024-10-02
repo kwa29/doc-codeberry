@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 .aider*
 node_modules
 # Dependencies
@@ -52,6 +53,8 @@ next-env.d.ts
 !.vscode/launch.json
 !.vscode/extensions.json
 =======
+=======
+>>>>>>> Stashed changes
 # Dependencies
 node_modules/
 package-lock.json
@@ -64,11 +67,15 @@ build/
 .env
 .env.local
 .env.*.local
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 # Logs
 logs
 *.log
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 
 # OS generated files
@@ -80,6 +87,8 @@ logs
 ehthumbs.db
 Thumbs.db
 =======
+=======
+>>>>>>> Stashed changes
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -105,5 +114,9 @@ coverage/
 
 # Optional: Uncomment if you're using Next.js
 .next/
+<<<<<<< Updated upstream
+out
+>>>>>>> Stashed changes
+=======
 out
 >>>>>>> Stashed changes
