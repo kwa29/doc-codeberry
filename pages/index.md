@@ -32,7 +32,7 @@ codeberry's user interface contains 6 core components: Workspaces, Projects, Iss
 
 ---
 
-Last updated on July 17, 2024
+Last updated on {new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
 
 [Workspaces >](#)
 
