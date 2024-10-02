@@ -1,10 +1,10 @@
 export default {
-  logo: <span>CodeBerry Docs</span>,
+  logo: <span>codeberry Docs</span>,
   project: {
-    link: 'https://github.com/kwa29/docs-codeberry'
+    link: 'https://github.com/yourusername/codeberry-docs'
   },
-  docsRepositoryBase: 'https://github.com/kwa29/docs-codeberry/tree/main',
+  docsRepositoryBase: 'https://github.com/yourusername/codeberry-docs/tree/main',
   footer: {
-    text: 'CodeBerry Documentation'
+    text: 'codeberry Documentation'
   }
 }
